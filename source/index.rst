@@ -11,6 +11,7 @@ Contents
    
    docs/developers/index
    docs/photonlib/index
+   docs/programming/index
 
 
 Contact Us
